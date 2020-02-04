@@ -1,0 +1,26 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: brown;
+    font-size: 150%;
+    border:10px rgb(226, 223, 27);
+    border-style: solid;
+    background-color: rgb(12, 12, 12);
+
+}
+p{
+    font-style: italic;
+    color: seagreen;
+    font-size: 150%;
+}
+p2{
+    color: slateblue;
+}
+div{
+    color: sienna;
+}
+img{
+    border: rgb(16, 241, 54);
+    size: 50%;
+    border-style: solid;
+    width: 90%;
+}
